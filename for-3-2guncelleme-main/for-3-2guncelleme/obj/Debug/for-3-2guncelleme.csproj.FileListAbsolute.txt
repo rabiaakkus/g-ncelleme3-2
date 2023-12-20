@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3-2guncelleme\for-3-2guncelleme\bin\Debug\for-3-2guncelleme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3-2guncelleme\for-3-2guncelleme\bin\Debug\for-3-2guncelleme.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3-2guncelleme\for-3-2guncelleme\bin\Debug\for-3-2guncelleme.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3-2guncelleme\for-3-2guncelleme\obj\Debug\for-3-2guncelleme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3-2guncelleme\for-3-2guncelleme\obj\Debug\for-3-2guncelleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3-2guncelleme\for-3-2guncelleme\obj\Debug\for_3_2guncelleme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3-2guncelleme\for-3-2guncelleme\obj\Debug\for_3_2guncelleme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3-2guncelleme\for-3-2guncelleme\obj\Debug\for-3-2guncelleme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3-2guncelleme\for-3-2guncelleme\obj\Debug\for-3-2guncelleme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3-2guncelleme\for-3-2guncelleme\obj\Debug\for-3-2guncelleme.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\for-3-2guncelleme\for-3-2guncelleme\obj\Debug\for-3-2guncelleme.pdb
